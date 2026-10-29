@@ -1,3 +1,4 @@
+<img width="915" height="675" alt="Screenshot 2026-10-29 125109" src="https://github.com/user-attachments/assets/8dabca75-102d-49b3-99f0-4413fab0046d" />
 TXS0108E Bidirectional Level-Shifter PMOD
 
 A compact, open-source 8-channel bidirectional voltage level-translation board adopting the standard PMOD form factor. Built around the Texas Instruments TXS0108E, this board facilitates seamless logic level conversion without requiring a dedicated direction control pin.
