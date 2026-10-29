@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-F_Cu.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-B_Cu.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-F_Paste.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-B_Paste.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-F_Mask.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-B_Mask.gbr'.
+Plotted to 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Apoorva singh\AppData\Local\Temp\e76195f9-6957-47e2-b9fa-3c0e55f0854f_buffer_pmod_review_20261014 (1).zip.54f\buffer_pmod_ratsnest_connected-job.gbrjob'.
+Info: Done.
